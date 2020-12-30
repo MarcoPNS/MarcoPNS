@@ -12,17 +12,25 @@ I started programming in 2011: Without studying and training, simply with the mo
 
 ---
 
-<p align="center"><h2>My Stats</h2></p>
-<a href="https://camefrom.space">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
-</a>
-
----
+<p align="center">
+  <h2>My Stats</h2>
+</p>
 
 <a href="https://camefrom.space">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
+  </p>
+</a>
+
+<a href="https://camefrom.space">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
+  </p>
 </a>
 
 
-
-**Dream it. Hack it. Ship it.** [camefrom.space](https://camefrom.space)
+<p align="center">
+  <strong>Dream it. Hack it. Ship it.</strong>
+  </br>
+  <a href="https://camefrom.space">camefrom.space</a>
+</p>
