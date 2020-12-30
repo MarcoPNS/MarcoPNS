@@ -1,19 +1,28 @@
+<img align="center" src="https://camefrom.space/wp-content/uploads/2018/12/pic.jpg">
 
-# This is my space for ideas!
+## This is my space for ideas!
 
-![camefrom.space comet](https://camefrom.space/camefromspace-comet-animated.svg =100)
+<a href="https://camefrom.space">
+<img align="left" src="https://camefrom.space/camefromspace-comet-animated.svg" width="125">
+</a>
 
-<!--
-**MarcoPNS/MarcoPNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m Marco Sadowski and camefrom.space is my brand where I publish all my projects. I’m a Software Developer from Germany. 
 
-Here are some ideas to get you started:
+I started programming in 2011: Without studying and training, simply with the motivation to create my own game. Since then, my goal is to create cool digital stuff. I have already gained a lot of experience in PHP, JS (including node.js), and in the .NET Framework (C# and vb.net).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center"><h2>My Stats</h2></p>
+<a href="https://camefrom.space">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
+</a>
+
+---
+
+<a href="https://camefrom.space">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
+</a>
+
+
+
+**Dream it. Hack it. Ship it.** [camefrom.space](https://camefrom.space)
