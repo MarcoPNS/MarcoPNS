@@ -12,18 +12,6 @@ I started programming in 2011: Without studying and training, simply with the mo
 </br>
 </br>
 </br>
-<a href="https://camefrom.space">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
-  </p>
-</a>
-
-<a href="https://camefrom.space">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPNS&show_icons=true&title_color=42d79e&icon_color=42d79e&text_color=42d79e&bg_color=222051" />
-  </p>
-</a>
-
 
 <p align="center">
   <strong>Dream it. Hack it. Ship it.</strong>
